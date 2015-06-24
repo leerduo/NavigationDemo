@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/InteractionAndEngagement.iml" filepath="$PROJECT_DIR$/InteractionAndEngagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backnavigation/backnavigation.iml" filepath="$PROJECT_DIR$/backnavigation/backnavigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navigationdrawer/navigationdrawer.iml" filepath="$PROJECT_DIR$/navigationdrawer/navigationdrawer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/upnavigation/upnavigation.iml" filepath="$PROJECT_DIR$/upnavigation/upnavigation.iml" />
+    </modules>
+  </component>
+</project>
